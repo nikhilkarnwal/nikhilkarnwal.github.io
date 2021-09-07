@@ -1,0 +1,31 @@
+- name: In-cabin Activity Taxonomy using Body Pose Features
+  descr: "In this paper, we evaluate the impact of extracting intermediate features related to the driver like face-pose, body-pose and presence of different objects on the accuracy of predicting in-cabin activities in the context of autonomous vehicles which ultimately helps in determining if driver is driving safely."
+  image: in_cabin.png
+  github: https://github.com/nikhilkarnwal/projects
+  caption: "Architecture of Model using Body-pose, Face-pose and Object detection for In-cabin Activity Taxonomy"
+  title: "Autonomous Driving"
+- name: Visual Grounding of Objects in Command for Autonomous Vehicles
+  descr: "In this project, we are trying to solve the problem of Visual grounding of the object mentioned via command in the respective image. More specifically, we are targeting scenarios where a passenger can pass free-form natural language commands to a self-driving car."
+  image: vis_ground.png
+  github: https://github.com/nikhilkarnwal/projects
+  caption: "Turn around and park in front of that vehicle in the shade."
+- name: Generative model-based video compression
+  title: GAN
+  descr: "In this paper, we propose a new method of recovering high-quality video conferencing streams from low frame rate video streams using deep learning. As a baseline, we propose a scheme using existing frame interpolation methods and lip movement generation methods, which we fine-tune to fit our particular use case. Then we introduce Wav2FSS, a novel end-to-end framework capable of generating a high-quality reconstruction of the speaker’s face. When validated against our baseline, this model proves to be state-of-the-art."
+  image: gan_video_comp.png
+  github: https://github.com/nikhilkarnwal/projects
+- name: Learn Policy for Google Football Environment using Actor-Critic
+  title: Reinforcement Learning
+  descr: "In this paper, we implemented Actor-Critic Reinforcement algorithm for learning an agent to play soccer in Google Football environment."
+  image: rl_g_football.png
+  github: https://github.com/nikhilkarnwal/projects
+- name: NER in Synthetic Biology related articles using BERT
+  title: NLP
+  descr: "In this project, we are developing a model using BERT as bottleneck for NER in Synthetic Biology related articles for entities like Gene, Chemicals, Species, Cellline, etc."
+  image: bio_bert.jpg
+  github: https://github.com/nikhilkarnwal/projects
+- name: Cancer Lineage Subtype Classification Using Gene Hierarchy-Based “Visible” Neural Networks on Tumor Mutations
+  title: Biology
+  descr: "In this paper, we developed a “visible” neural network capable of predicting tumor type and subtype based solely on tumor sequencing data. This model uses the Cancer Dependency Map (DepMap) database, which contains all necessary genetic and cell line information. The model architecture is based upon previously described hierarchy-based networks that connect neurons based on cell process interactions described in the Gene Ontology (GO) Resource, a manually curated database mapping genetic interactions."
+  image: bio_cancer.png
+  github: https://github.com/nikhilkarnwal/projects
